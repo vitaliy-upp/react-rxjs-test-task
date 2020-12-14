@@ -1,4 +1,6 @@
-# react-rxjs-test-taskEXERCISE:
+# react-rxjs-test-task
+
+EXERCISE:
 A live analytics dashboard displays data about a medical operating room to doctors and nurses. It receives its data from three independent monitoring systems:
 
 Temperature
